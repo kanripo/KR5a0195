@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:40:46.041498
+# -*- mode: mandoku-view -*-
 #+TITLE: 高上玉皇滿願寶懺
-#+PROPERTY: DZID  DZ0194
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，3—524 十卷 洞真部威儀類
+#+DATE: 2015-08-28 23:40:47
+#+PROPERTY:  LASTPB <PB KR5a0195_SJB_010-030546a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶
+
