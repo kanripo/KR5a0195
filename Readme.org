@@ -1,18 +1,3 @@
-#+TITLE: 高上玉皇滿願寶懺 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:40:46.212952
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0195_000.txt][高上玉皇滿願寶懺 0]]
- - [[file:KR5a0195_001.txt][高上玉皇滿願寶懺 1]]
- - [[file:KR5a0195_002.txt][高上玉皇滿願寶懺 2]]
- - [[file:KR5a0195_003.txt][高上玉皇滿願寶懺 3]]
- - [[file:KR5a0195_004.txt][高上玉皇滿願寶懺 4]]
- - [[file:KR5a0195_005.txt][高上玉皇滿願寶懺 5]]
- - [[file:KR5a0195_006.txt][高上玉皇滿願寶懺 6]]
- - [[file:KR5a0195_007.txt][高上玉皇滿願寶懺 7]]
- - [[file:KR5a0195_008.txt][高上玉皇滿願寶懺 8]]
- - [[file:KR5a0195_009.txt][高上玉皇滿願寶懺 9]]
- - [[file:KR5a0195_010.txt][高上玉皇滿願寶懺 10]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
